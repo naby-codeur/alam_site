@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - Mahdi'nin Sadık ve Müritleri İttifakı",
+    "description": "Uluslararası boyutlara sahip merkezi sosyoekonomik yönetim sistemi ile karakterize edilen çok sektörlü organizasyonlar konsorsiyumu."
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "structures": "Yapılar",
+    "news": "Haberler",
+    "events": "Etkinlikler",
+    "resources": "Kaynaklar",
+    "contact": "İletişim",
+    "faq": "SSS"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Mahdi'nin Sadık ve Müritleri İttifakı",
+    "description": "LVS (Çalışma, Erdem, Maneviyat) yasalarına göre kurulmuş, uluslararası boyutlara sahip merkezi sosyoekonomik yönetim sistemi ile karakterize edilen çok sektörlü organizasyonlar konsorsiyumu.",
+    "mission": "İmam Mahdi'nin davasının genişlemesi ve sürdürülebilirliği için elverişli bir yönetim çerçevesi geliştirmek ve sağlamak.",
+    "cta": "Yapılarımızı keşfedin",
+    "latestNews": "Son haberler",
+    "upcomingEvents": "Yaklaşan etkinlikler"
+  },
+  "about": {
+    "title": "ALAM Hakkında",
+    "history": "Tarihçe",
+    "mission": "Misyon",
+    "vision": "Vizyon",
+    "values": "Değerler",
+    "organization": "Organizasyon şeması"
+  },
+  "structures": {
+    "title": "Yapılarımız",
+    "alamCom": "ALAM-COM - İletişim",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Mağaza)",
+    "alamLangue": "ALAM Dil",
+    "aite": "AITE - Bilişim & Gelişen Teknoloji",
+    "alamProjet": "ALAM PROJE",
+    "alamFinance": "ALAM FİNANS",
+    "alambusiness": "ALAM BUSINESS - İnovasyon & Araştırma",
+    "alamtv": "ALAM TV - Uluslararası Koordinasyon"
+  },
+  "news": {
+    "title": "Haberler",
+    "readMore": "Devamını oku",
+    "publishedOn": "Yayın tarihi",
+    "category": "Kategori",
+    "search": "Ara...",
+    "filterBy": "Filtrele"
+  },
+  "events": {
+    "title": "Etkinlikler",
+    "upcoming": "Yaklaşan",
+    "past": "Geçmiş",
+    "calendar": "Takvim",
+    "register": "Kayıt ol",
+    "details": "Detaylar"
+  },
+  "resources": {
+    "title": "Kaynaklar",
+    "download": "İndir",
+    "publications": "Yayınlar",
+    "reports": "Raporlar",
+    "documents": "Belgeler"
+  },
+  "contact": {
+    "title": "İletişim",
+    "name": "Ad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Gönder",
+    "address": "Adres",
+    "phone": "Telefon",
+    "socialMedia": "Sosyal medya"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır",
+    "followUs": "Bizi takip edin",
+    "newsletter": "Bülten",
+    "subscribe": "Abone ol"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "close": "Kapat",
+    "menu": "Menü",
+    "search": "Ara"
+  }
+}
+

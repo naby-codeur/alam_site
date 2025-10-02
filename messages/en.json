@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "structures": "Structures",
+    "news": "News",
+    "events": "Events",
+    "resources": "Resources",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "ALAM - Alliance of Loyal and Devoted to Mahdi",
+    "subtitle": "Multi-sectoral organizations consortium",
+    "description": "Characterized by a centralized socioeconomic administration system with international dimensions",
+    "cta": "Discover our structures",
+    "mission": "Our mission is to develop and ensure an administrative framework conducive to the expansion and sustainability of the cause of Imam Mahdi.",
+    "latestNews": "Latest News"
+  },
+  "about": {
+    "title": "About ALAM",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Our Values",
+    "history": "Our History",
+    "organization": "Organization"
+  },
+  "structures": {
+    "title": "Our Structures",
+    "alamtv": {
+      "title": "ALAM TV",
+      "subtitle": "Awaken, enlighten, elevate",
+      "description": "Spiritual content platform"
+    },
+    "aite": {
+      "title": "ALAM ITE",
+      "subtitle": "Innovate today, transform tomorrow",
+      "description": "Information Technology and Emerging Technologies"
+    }
+  },
+  "news": {
+    "title": "News",
+    "search": "Search...",
+    "readMore": "Read more"
+  },
+  "events": {
+    "title": "Events",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "register": "Register",
+    "details": "Details",
+    "calendar": "Calendar"
+  },
+  "resources": {
+    "title": "Resources",
+    "download": "Download"
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

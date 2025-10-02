@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "ALAM - Aliança dos Leais e Adeptos de Mahdi",
+    "description": "Consórcio de organizações multissetoriais caracterizado por um sistema de administração socioeconômica centralizado com dimensões internacionais."
+  },
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "structures": "Estruturas",
+    "news": "Notícias",
+    "events": "Eventos",
+    "resources": "Recursos",
+    "contact": "Contato",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Aliança dos Leais e Adeptos de Mahdi",
+    "description": "Consórcio de organizações multissetoriais caracterizado por um sistema de administração socioeconômica centralizado com dimensões internacionais, fundado segundo as leis da LVS (Trabalho, Virtude, Espiritualidade).",
+    "mission": "Desenvolver e garantir um quadro de administração propício à expansão e sustentabilidade da causa do Imam Mahdi.",
+    "cta": "Descobrir nossas estruturas",
+    "latestNews": "Últimas notícias",
+    "upcomingEvents": "Próximos eventos"
+  },
+  "about": {
+    "title": "Sobre ALAM",
+    "history": "História",
+    "mission": "Missão",
+    "vision": "Visão",
+    "values": "Valores",
+    "organization": "Organograma"
+  },
+  "structures": {
+    "title": "Nossas Estruturas",
+    "alamCom": "ALAM-COM - Comunicação",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Loja)",
+    "alamLangue": "ALAM Língua",
+    "aite": "AITE - Informática & Tecnologia Emergente",
+    "alamProjet": "ALAM PROJETO",
+    "alamFinance": "ALAM FINANÇAS",
+    "alambusiness": "ALAM BUSINESS - Inovação & Pesquisa",
+    "alamtv": "ALAM TV - Coordenação Internacional"
+  },
+  "news": {
+    "title": "Notícias",
+    "readMore": "Ler mais",
+    "publishedOn": "Publicado em",
+    "category": "Categoria",
+    "search": "Pesquisar...",
+    "filterBy": "Filtrar por"
+  },
+  "events": {
+    "title": "Eventos",
+    "upcoming": "Próximos",
+    "past": "Passados",
+    "calendar": "Calendário",
+    "register": "Inscrever-se",
+    "details": "Detalhes"
+  },
+  "resources": {
+    "title": "Recursos",
+    "download": "Baixar",
+    "publications": "Publicações",
+    "reports": "Relatórios",
+    "documents": "Documentos"
+  },
+  "contact": {
+    "title": "Contato",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "send": "Enviar",
+    "address": "Endereço",
+    "phone": "Telefone",
+    "socialMedia": "Redes sociais"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados",
+    "followUs": "Siga-nos",
+    "newsletter": "Newsletter",
+    "subscribe": "Inscrever-se"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "close": "Fechar",
+    "menu": "Menu",
+    "search": "Pesquisar"
+  }
+}

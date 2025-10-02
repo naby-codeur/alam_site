@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "structures": "Estructuras",
+    "news": "Noticias",
+    "events": "Eventos",
+    "resources": "Recursos",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "ALAM - Alianza de Leales y Adeptos de Mahdi",
+    "subtitle": "Consorcio de organizaciones multisectoriales",
+    "description": "Caracterizado por un sistema de administración socioeconómica centralizado con dimensiones internacionales",
+    "cta": "Descubre nuestras estructuras",
+    "mission": "Nuestra misión es desarrollar y asegurar un marco administrativo propicio para la expansión y perdurabilidad de la causa del Imam Mahdi.",
+    "latestNews": "Últimas noticias"
+  },
+  "about": {
+    "title": "Acerca de ALAM",
+    "mission": "Nuestra Misión",
+    "vision": "Nuestra Visión",
+    "values": "Nuestros Valores",
+    "history": "Nuestra Historia",
+    "organization": "Organización"
+  },
+  "structures": {
+    "title": "Nuestras Estructuras",
+    "alamtv": {
+      "title": "ALAM TV",
+      "subtitle": "Despertar, iluminar, elevar",
+      "description": "Plataforma de contenido espiritual"
+    },
+    "aite": {
+      "title": "ALAM ITE",
+      "subtitle": "Innovar hoy, transformar mañana",
+      "description": "Informática y Tecnologías Emergentes"
+    }
+  },
+  "news": {
+    "title": "Noticias",
+    "search": "Buscar...",
+    "readMore": "Leer más"
+  },
+  "events": {
+    "title": "Eventos",
+    "upcoming": "Próximos Eventos",
+    "past": "Eventos Pasados",
+    "register": "Registrarse",
+    "details": "Detalles",
+    "calendar": "Calendario"
+  },
+  "resources": {
+    "title": "Recursos",
+    "download": "Descargar"
+  },
+  "contact": {
+    "title": "Contacto"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  }
+}

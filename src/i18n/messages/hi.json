@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - महदी के वफादार और अनुयायियों का गठबंधन",
+    "description": "बहु-क्षेत्रीय संगठनों का कंसोर्टियम जो अंतर्राष्ट्रीय आयामों के साथ केंद्रीकृत सामाजिक-आर्थिक प्रशासन प्रणाली की विशेषता रखता है।"
+  },
+  "navigation": {
+    "home": "होम",
+    "about": "हमारे बारे में",
+    "structures": "संरचनाएं",
+    "news": "समाचार",
+    "events": "कार्यक्रम",
+    "resources": "संसाधन",
+    "contact": "संपर्क",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "महदी के वफादार और अनुयायियों का गठबंधन",
+    "description": "बहु-क्षेत्रीय संगठनों का कंसोर्टियम जो अंतर्राष्ट्रीय आयामों के साथ केंद्रीकृत सामाजिक-आर्थिक प्रशासन प्रणाली की विशेषता रखता है, LVS (श्रम, सदाचार, आध्यात्मिकता) के नियमों के अनुसार स्थापित।",
+    "mission": "इमाम महदी के कार्य के विस्तार और स्थिरता के लिए अनुकूल प्रशासनिक ढांचा विकसित करना और सुनिश्चित करना।",
+    "cta": "हमारी संरचनाओं को खोजें",
+    "latestNews": "नवीनतम समाचार",
+    "upcomingEvents": "आगामी कार्यक्रम"
+  },
+  "about": {
+    "title": "ALAM के बारे में",
+    "history": "इतिहास",
+    "mission": "मिशन",
+    "vision": "दृष्टि",
+    "values": "मूल्य",
+    "organization": "संगठनात्मक चार्ट"
+  },
+  "structures": {
+    "title": "हमारी संरचनाएं",
+    "alamCom": "ALAM-COM - संचार",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (दुकान)",
+    "alamLangue": "ALAM भाषा",
+    "aite": "AITE - सूचना प्रौद्योगिकी और उभरती प्रौद्योगिकी",
+    "alamProjet": "ALAM प्रोजेक्ट",
+    "alamFinance": "ALAM वित्त",
+    "alambusiness": "ALAM BUSINESS - नवाचार और अनुसंधान",
+    "alamtv": "ALAM TV - अंतर्राष्ट्रीय समन्वय"
+  },
+  "news": {
+    "title": "समाचार",
+    "readMore": "और पढ़ें",
+    "publishedOn": "प्रकाशित",
+    "category": "श्रेणी",
+    "search": "खोजें...",
+    "filterBy": "फिल्टर करें"
+  },
+  "events": {
+    "title": "कार्यक्रम",
+    "upcoming": "आगामी",
+    "past": "पिछले",
+    "calendar": "कैलेंडर",
+    "register": "पंजीकरण",
+    "details": "विवरण"
+  },
+  "resources": {
+    "title": "संसाधन",
+    "download": "डाउनलोड",
+    "publications": "प्रकाशन",
+    "reports": "रिपोर्ट",
+    "documents": "दस्तावेज"
+  },
+  "contact": {
+    "title": "संपर्क",
+    "name": "नाम",
+    "email": "ईमेल",
+    "message": "संदेश",
+    "send": "भेजें",
+    "address": "पता",
+    "phone": "फोन",
+    "socialMedia": "सोशल मीडिया"
+  },
+  "footer": {
+    "rights": "सभी अधिकार सुरक्षित",
+    "followUs": "हमें फॉलो करें",
+    "newsletter": "न्यूज़लेटर",
+    "subscribe": "सब्सक्राइब करें"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "close": "बंद करें",
+    "menu": "मेनू",
+    "search": "खोजें"
+  }
+}
+

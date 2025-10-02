@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "structures": "Strutture",
+    "news": "Notizie",
+    "events": "Eventi",
+    "resources": "Risorse",
+    "contact": "Contatti"
+  },
+  "home": {
+    "title": "ALAM - Alleanza dei Fedeli e Devoti di Mahdi",
+    "subtitle": "Consorzio di organizzazioni multisettoriali",
+    "description": "Caratterizzato da un sistema di amministrazione socioeconomica centralizzato con dimensioni internazionali",
+    "cta": "Scopri le nostre strutture",
+    "mission": "La nostra missione è sviluppare e garantire un quadro amministrativo favorevole all'espansione e alla sostenibilità della causa dell'Imam Mahdi.",
+    "latestNews": "Ultime notizie"
+  },
+  "about": {
+    "title": "Chi siamo ALAM",
+    "mission": "La Nostra Missione",
+    "vision": "La Nostra Visione",
+    "values": "I Nostri Valori",
+    "history": "La Nostra Storia",
+    "organization": "Organizzazione"
+  },
+  "structures": {
+    "title": "Le Nostre Strutture",
+    "alamtv": {
+      "title": "ALAM TV",
+      "subtitle": "Risvegliare, illuminare, elevare",
+      "description": "Piattaforma di contenuti spirituali"
+    },
+    "aite": {
+      "title": "ALAM ITE",
+      "subtitle": "Innovare oggi, trasformare domani",
+      "description": "Informatica e Tecnologie Emergenti"
+    }
+  },
+  "news": {
+    "title": "Notizie",
+    "search": "Cerca...",
+    "readMore": "Leggi di più"
+  },
+  "events": {
+    "title": "Eventi",
+    "upcoming": "Prossimi Eventi",
+    "past": "Eventi Passati",
+    "register": "Registrati",
+    "details": "Dettagli",
+    "calendar": "Calendario"
+  },
+  "resources": {
+    "title": "Risorse",
+    "download": "Scarica"
+  },
+  "contact": {
+    "title": "Contatti"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati"
+  }
+}

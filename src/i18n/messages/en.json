@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "title": "ALAM - Alliance of Loyal and Devoted to Mahdi",
+    "description": "Multisectoral consortium of organizations characterized by a centralized socioeconomic administrative system with international dimensions."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "structures": "Structures",
+    "news": "News",
+    "events": "Events",
+    "resources": "Resources",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Alliance of Loyal and Devoted to Mahdi",
+    "description": "Multisectoral consortium of organizations characterized by a centralized socioeconomic administrative system with international dimensions based on the laws of LVS (Labor, Virtue, Spirituality).",
+    "mission": "Develop and ensure an administrative framework conducive to the expansion and sustainability of Imam Mahdi's cause.",
+    "cta": "Discover our structures",
+    "latestNews": "Latest news",
+    "upcomingEvents": "Upcoming events"
+  },
+  "about": {
+    "title": "About ALAM",
+    "history": "History",
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Values",
+    "organization": "Organization Chart"
+  },
+  "structures": {
+    "title": "Our Structures",
+    "alamCom": "ALAM-COM - Communication",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Shop)",
+    "alamLangue": "ALAM Langue",
+    "aite": "AITE - Information Technology & Emerging Technologies",
+    "alamProjet": "ALAM PROJET",
+    "alamFinance": "ALAM FINANCE"
+  },
+  "news": {
+    "title": "News",
+    "readMore": "Read more",
+    "publishedOn": "Published on",
+    "category": "Category",
+    "search": "Search...",
+    "filterBy": "Filter by"
+  },
+  "events": {
+    "title": "Events",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "calendar": "Calendar",
+    "register": "Register",
+    "details": "Details"
+  },
+  "resources": {
+    "title": "Resources",
+    "download": "Download",
+    "publications": "Publications",
+    "reports": "Reports",
+    "documents": "Documents"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "address": "Address",
+    "phone": "Phone",
+    "socialMedia": "Social media"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "followUs": "Follow us",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "menu": "Menu",
+    "search": "Search"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - マフディーの忠実な者と信奉者の同盟",
+    "description": "国際的規模の中央集権的社会経済管理システムを特徴とする多部門組織コンソーシアム。"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "about": "私たちについて",
+    "structures": "組織",
+    "news": "ニュース",
+    "events": "イベント",
+    "resources": "リソース",
+    "contact": "お問い合わせ",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "マフディーの忠実な者と信奉者の同盟",
+    "description": "LVS（労働、美徳、精神性）の法則に基づいて設立された、国際的規模の中央集権的社会経済管理システムを特徴とする多部門組織コンソーシアム。",
+    "mission": "イマーム・マフディーの大義の拡大と持続可能性に資する管理フレームワークを開発し、確保する。",
+    "cta": "私たちの組織を探索",
+    "latestNews": "最新ニュース",
+    "upcomingEvents": "今後のイベント"
+  },
+  "about": {
+    "title": "ALAMについて",
+    "history": "歴史",
+    "mission": "ミッション",
+    "vision": "ビジョン",
+    "values": "価値観",
+    "organization": "組織図"
+  },
+  "structures": {
+    "title": "私たちの組織",
+    "alamCom": "ALAM-COM - コミュニケーション",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (ショップ)",
+    "alamLangue": "ALAM 言語",
+    "aite": "AITE - 情報技術と新興技術",
+    "alamProjet": "ALAM プロジェクト",
+    "alamFinance": "ALAM ファイナンス",
+    "alambusiness": "ALAM BUSINESS - イノベーションと研究",
+    "alamtv": "ALAM TV - 国際調整"
+  },
+  "news": {
+    "title": "ニュース",
+    "readMore": "続きを読む",
+    "publishedOn": "公開日",
+    "category": "カテゴリー",
+    "search": "検索...",
+    "filterBy": "フィルター"
+  },
+  "events": {
+    "title": "イベント",
+    "upcoming": "今後の",
+    "past": "過去の",
+    "calendar": "カレンダー",
+    "register": "登録",
+    "details": "詳細"
+  },
+  "resources": {
+    "title": "リソース",
+    "download": "ダウンロード",
+    "publications": "出版物",
+    "reports": "レポート",
+    "documents": "文書"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "name": "名前",
+    "email": "メール",
+    "message": "メッセージ",
+    "send": "送信",
+    "address": "住所",
+    "phone": "電話",
+    "socialMedia": "ソーシャルメディア"
+  },
+  "footer": {
+    "rights": "全著作権所有",
+    "followUs": "フォローする",
+    "newsletter": "ニュースレター",
+    "subscribe": "購読"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "close": "閉じる",
+    "menu": "メニュー",
+    "search": "検索"
+  }
+}
+

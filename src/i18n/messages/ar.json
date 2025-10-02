@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "ALAM - تحالف الموالين والمؤمنين بالمهدي",
+    "description": "تحالف متعدد القطاعات من المنظمات يتميز بنظام إداري اجتماعي اقتصادي مركزي بأبعاد دولية."
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "about": "حول",
+    "structures": "الهياكل",
+    "news": "الأخبار",
+    "events": "الأحداث",
+    "resources": "الموارد",
+    "contact": "اتصل بنا",
+    "faq": "الأسئلة الشائعة"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "تحالف الموالين والمؤمنين بالمهدي",
+    "description": "تحالف متعدد القطاعات من المنظمات يتميز بنظام إداري اجتماعي اقتصادي مركزي بأبعاد دولية مؤسس وفقاً لقوانين LVS (العمل، الفضيلة، الروحانية).",
+    "mission": "تطوير وضمان إطار إداري ملائم لتوسع واستدامة قضية الإمام المهدي.",
+    "cta": "اكتشف هياكلنا",
+    "latestNews": "آخر الأخبار",
+    "upcomingEvents": "الأحداث القادمة"
+  },
+  "about": {
+    "title": "حول ALAM",
+    "history": "التاريخ",
+    "mission": "المهمة",
+    "vision": "الرؤية",
+    "values": "القيم",
+    "organization": "الهيكل التنظيمي"
+  },
+  "structures": {
+    "title": "هياكلنا",
+    "alamCom": "ALAM-COM - الاتصالات",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (المتجر)",
+    "alamLangue": "ALAM Langue",
+    "aite": "AITE - تكنولوجيا المعلومات والتقنيات الناشئة",
+    "alamProjet": "ALAM PROJET",
+    "alamFinance": "ALAM FINANCE"
+  },
+  "news": {
+    "title": "الأخبار",
+    "readMore": "اقرأ المزيد",
+    "publishedOn": "نُشر في",
+    "category": "الفئة",
+    "search": "ابحث...",
+    "filterBy": "تصفية حسب"
+  },
+  "events": {
+    "title": "الأحداث",
+    "upcoming": "القادمة",
+    "past": "السابقة",
+    "calendar": "التقويم",
+    "register": "تسجيل",
+    "details": "التفاصيل"
+  },
+  "resources": {
+    "title": "الموارد",
+    "download": "تحميل",
+    "publications": "المنشورات",
+    "reports": "التقارير",
+    "documents": "المستندات"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "message": "الرسالة",
+    "send": "إرسال",
+    "address": "العنوان",
+    "phone": "الهاتف",
+    "socialMedia": "وسائل التواصل الاجتماعي"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة",
+    "followUs": "تابعنا",
+    "newsletter": "النشرة الإخبارية",
+    "subscribe": "اشترك"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "close": "إغلاق",
+    "menu": "القائمة",
+    "search": "بحث"
+  }
+}
+

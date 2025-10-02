@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - Allianz der Treuen und Anhänger von Mahdi",
+    "description": "Konsortium multisektoraler Organisationen, gekennzeichnet durch ein zentralisiertes sozioökonomisches Verwaltungssystem mit internationalen Dimensionen."
+  },
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "structures": "Strukturen",
+    "news": "Nachrichten",
+    "events": "Veranstaltungen",
+    "resources": "Ressourcen",
+    "contact": "Kontakt",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Allianz der Treuen und Anhänger von Mahdi",
+    "description": "Konsortium multisektoraler Organisationen, gekennzeichnet durch ein zentralisiertes sozioökonomisches Verwaltungssystem mit internationalen Dimensionen, gegründet nach den Gesetzen der LVS (Arbeit, Tugend, Spiritualität).",
+    "mission": "Entwicklung und Sicherstellung eines Verwaltungsrahmens, der der Expansion und Nachhaltigkeit der Sache des Imam Mahdi förderlich ist.",
+    "cta": "Unsere Strukturen entdecken",
+    "latestNews": "Neueste Nachrichten",
+    "upcomingEvents": "Kommende Veranstaltungen"
+  },
+  "about": {
+    "title": "Über ALAM",
+    "history": "Geschichte",
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Werte",
+    "organization": "Organigramm"
+  },
+  "structures": {
+    "title": "Unsere Strukturen",
+    "alamCom": "ALAM-COM - Kommunikation",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Shop)",
+    "alamLangue": "ALAM Sprache",
+    "aite": "AITE - Informatik & Emergente Technologie",
+    "alamProjet": "ALAM PROJEKT",
+    "alamFinance": "ALAM FINANZ",
+    "alambusiness": "ALAM BUSINESS - Innovation & Forschung",
+    "alamtv": "ALAM TV - Internationale Koordination"
+  },
+  "news": {
+    "title": "Nachrichten",
+    "readMore": "Weiterlesen",
+    "publishedOn": "Veröffentlicht am",
+    "category": "Kategorie",
+    "search": "Suchen...",
+    "filterBy": "Filtern nach"
+  },
+  "events": {
+    "title": "Veranstaltungen",
+    "upcoming": "Kommende",
+    "past": "Vergangene",
+    "calendar": "Kalender",
+    "register": "Anmelden",
+    "details": "Details"
+  },
+  "resources": {
+    "title": "Ressourcen",
+    "download": "Herunterladen",
+    "publications": "Publikationen",
+    "reports": "Berichte",
+    "documents": "Dokumente"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Senden",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "socialMedia": "Soziale Medien"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "followUs": "Folgen Sie uns",
+    "newsletter": "Newsletter",
+    "subscribe": "Abonnieren"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "close": "Schließen",
+    "menu": "Menü",
+    "search": "Suchen"
+  }
+}
+

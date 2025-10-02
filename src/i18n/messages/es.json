@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "ALAM - Alianza de Leales y Devotos de Mahdi",
+    "description": "Consorcio multisectorial de organizaciones caracterizado por un sistema de administración socioeconómica centralizada con dimensiones internacionales."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "structures": "Estructuras",
+    "news": "Noticias",
+    "events": "Eventos",
+    "resources": "Recursos",
+    "contact": "Contacto",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Alianza de Leales y Devotos de Mahdi",
+    "description": "Consorcio multisectorial de organizaciones caracterizado por un sistema de administración socioeconómica centralizada con dimensiones internacionales basado en las leyes de LVS (Labor, Virtud, Espiritualidad).",
+    "mission": "Desarrollar y asegurar un marco administrativo propicio para la expansión y sostenibilidad de la causa del Imam Mahdi.",
+    "cta": "Descubrir nuestras estructuras",
+    "latestNews": "Últimas noticias",
+    "upcomingEvents": "Próximos eventos"
+  },
+  "about": {
+    "title": "Acerca de ALAM",
+    "history": "Historia",
+    "mission": "Misión",
+    "vision": "Visión",
+    "values": "Valores",
+    "organization": "Organigrama"
+  },
+  "structures": {
+    "title": "Nuestras Estructuras",
+    "alamCom": "ALAM-COM - Comunicación",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Tienda)",
+    "alamLangue": "ALAM Langue",
+    "aite": "AITE - Tecnología de la Información y Tecnologías Emergentes",
+    "alamProjet": "ALAM PROJET",
+    "alamFinance": "ALAM FINANCE"
+  },
+  "news": {
+    "title": "Noticias",
+    "readMore": "Leer más",
+    "publishedOn": "Publicado el",
+    "category": "Categoría",
+    "search": "Buscar...",
+    "filterBy": "Filtrar por"
+  },
+  "events": {
+    "title": "Eventos",
+    "upcoming": "Próximos",
+    "past": "Pasados",
+    "calendar": "Calendario",
+    "register": "Registrarse",
+    "details": "Detalles"
+  },
+  "resources": {
+    "title": "Recursos",
+    "download": "Descargar",
+    "publications": "Publicaciones",
+    "reports": "Informes",
+    "documents": "Documentos"
+  },
+  "contact": {
+    "title": "Contacto",
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "socialMedia": "Redes sociales"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "followUs": "Síguenos",
+    "newsletter": "Boletín",
+    "subscribe": "Suscribirse"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "close": "Cerrar",
+    "menu": "Menú",
+    "search": "Buscar"
+  }
+}
+

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - Alliantie van de Trouwe en Aanhangers van Mahdi",
+    "description": "Consortium van multisektorale organisaties gekenmerkt door een gecentraliseerd sociaaleconomisch beheerssysteem met internationale dimensies."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "Over ons",
+    "structures": "Structuren",
+    "news": "Nieuws",
+    "events": "Evenementen",
+    "resources": "Bronnen",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Alliantie van de Trouwe en Aanhangers van Mahdi",
+    "description": "Consortium van multisektorale organisaties gekenmerkt door een gecentraliseerd sociaaleconomisch beheerssysteem met internationale dimensies, opgericht volgens de wetten van LVS (Arbeid, Deugd, Spiritualiteit).",
+    "mission": "Ontwikkelen en waarborgen van een beheerskader dat bevorderlijk is voor de uitbreiding en duurzaamheid van de zaak van Imam Mahdi.",
+    "cta": "Ontdek onze structuren",
+    "latestNews": "Laatste nieuws",
+    "upcomingEvents": "Aankomende evenementen"
+  },
+  "about": {
+    "title": "Over ALAM",
+    "history": "Geschiedenis",
+    "mission": "Missie",
+    "vision": "Visie",
+    "values": "Waarden",
+    "organization": "Organigram"
+  },
+  "structures": {
+    "title": "Onze Structuren",
+    "alamCom": "ALAM-COM - Communicatie",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Winkel)",
+    "alamLangue": "ALAM Taal",
+    "aite": "AITE - Informatica & Opkomende Technologie",
+    "alamProjet": "ALAM PROJECT",
+    "alamFinance": "ALAM FINANCIËN",
+    "alambusiness": "ALAM BUSINESS - Innovatie & Onderzoek",
+    "alamtv": "ALAM TV - Internationale Coördinatie"
+  },
+  "news": {
+    "title": "Nieuws",
+    "readMore": "Lees meer",
+    "publishedOn": "Gepubliceerd op",
+    "category": "Categorie",
+    "search": "Zoeken...",
+    "filterBy": "Filteren op"
+  },
+  "events": {
+    "title": "Evenementen",
+    "upcoming": "Aankomend",
+    "past": "Verleden",
+    "calendar": "Kalender",
+    "register": "Registreren",
+    "details": "Details"
+  },
+  "resources": {
+    "title": "Bronnen",
+    "download": "Downloaden",
+    "publications": "Publicaties",
+    "reports": "Rapporten",
+    "documents": "Documenten"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Naam",
+    "email": "E-mail",
+    "message": "Bericht",
+    "send": "Verzenden",
+    "address": "Adres",
+    "phone": "Telefoon",
+    "socialMedia": "Sociale media"
+  },
+  "footer": {
+    "rights": "Alle rechten voorbehouden",
+    "followUs": "Volg ons",
+    "newsletter": "Nieuwsbrief",
+    "subscribe": "Abonneren"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fout",
+    "success": "Succes",
+    "close": "Sluiten",
+    "menu": "Menu",
+    "search": "Zoeken"
+  }
+}
+

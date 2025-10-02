@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "ALAM - Alliance des Loyaux et Adeptes de Mahdi",
+    "description": "Consortium d'organisations multisectorielles caractérisé par un système d'administration socioéconomique centralisé aux dimensions internationales."
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "structures": "Structures",
+    "news": "Actualités",
+    "events": "Événements",
+    "resources": "Ressources",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Alliance des Loyaux et Adeptes de Mahdi",
+    "description": "Consortium d'organisations multisectorielles caractérisé par un système d'administration socioéconomique centralisé aux dimensions internationales fondées selon la lois de la LVS (Labeur, Vertu, Spiritualité).",
+    "mission": "Développer et assurer un cadre d'administration propice à l'expansion et la pérennité de la cause de l'imam mahdi.",
+    "cta": "Découvrir nos structures",
+    "latestNews": "Dernières actualités",
+    "upcomingEvents": "Événements à venir"
+  },
+  "about": {
+    "title": "À propos d'ALAM",
+    "history": "Historique",
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Valeurs",
+    "organization": "Organigramme"
+  },
+  "structures": {
+    "title": "Nos Structures",
+    "alamCom": "ALAM-COM - Communication",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Shop)",
+    "alamLangue": "ALAM Langue",
+    "aite": "AITE - Informatique & Technologie Émergente",
+    "alamProjet": "ALAM PROJET",
+    "alamFinance": "ALAM FINANCE",
+    "alambusiness": "ALAM BUSINESS - Innovation & Recherche",
+    "alamtv": "ALAM TV - Coordination Internationale"
+  },
+  "news": {
+    "title": "Actualités",
+    "readMore": "Lire la suite",
+    "publishedOn": "Publié le",
+    "category": "Catégorie",
+    "search": "Rechercher...",
+    "filterBy": "Filtrer par"
+  },
+  "events": {
+    "title": "Événements",
+    "upcoming": "À venir",
+    "past": "Passés",
+    "calendar": "Calendrier",
+    "register": "S'inscrire",
+    "details": "Détails"
+  },
+  "resources": {
+    "title": "Ressources",
+    "download": "Télécharger",
+    "publications": "Publications",
+    "reports": "Rapports",
+    "documents": "Documents"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "socialMedia": "Réseaux sociaux"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "followUs": "Suivez-nous",
+    "newsletter": "Newsletter",
+    "subscribe": "S'abonner"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "close": "Fermer",
+    "menu": "Menu",
+    "search": "Rechercher"
+  }
+}

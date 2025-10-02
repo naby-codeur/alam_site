@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - 马赫迪忠诚者和追随者联盟",
+    "description": "多部门组织联盟，具有国际规模的集中式社会经济管理体系特征。"
+  },
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "structures": "结构",
+    "news": "新闻",
+    "events": "活动",
+    "resources": "资源",
+    "contact": "联系我们",
+    "faq": "常见问题"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "马赫迪忠诚者和追随者联盟",
+    "description": "多部门组织联盟，具有国际规模的集中式社会经济管理体系特征，根据LVS（劳动、美德、灵性）法则建立。",
+    "mission": "发展和确保有利于伊玛目马赫迪事业扩展和可持续发展的管理框架。",
+    "cta": "探索我们的结构",
+    "latestNews": "最新消息",
+    "upcomingEvents": "即将举行的活动"
+  },
+  "about": {
+    "title": "关于ALAM",
+    "history": "历史",
+    "mission": "使命",
+    "vision": "愿景",
+    "values": "价值观",
+    "organization": "组织架构"
+  },
+  "structures": {
+    "title": "我们的结构",
+    "alamCom": "ALAM-COM - 传播",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (商店)",
+    "alamLangue": "ALAM 语言",
+    "aite": "AITE - 信息技术与新兴技术",
+    "alamProjet": "ALAM 项目",
+    "alamFinance": "ALAM 金融",
+    "alambusiness": "ALAM BUSINESS - 创新与研究",
+    "alamtv": "ALAM TV - 国际协调"
+  },
+  "news": {
+    "title": "新闻",
+    "readMore": "阅读更多",
+    "publishedOn": "发布于",
+    "category": "类别",
+    "search": "搜索...",
+    "filterBy": "筛选"
+  },
+  "events": {
+    "title": "活动",
+    "upcoming": "即将举行",
+    "past": "已结束",
+    "calendar": "日历",
+    "register": "注册",
+    "details": "详情"
+  },
+  "resources": {
+    "title": "资源",
+    "download": "下载",
+    "publications": "出版物",
+    "reports": "报告",
+    "documents": "文件"
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "姓名",
+    "email": "电子邮件",
+    "message": "消息",
+    "send": "发送",
+    "address": "地址",
+    "phone": "电话",
+    "socialMedia": "社交媒体"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "followUs": "关注我们",
+    "newsletter": "通讯",
+    "subscribe": "订阅"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "close": "关闭",
+    "menu": "菜单",
+    "search": "搜索"
+  }
+}
+

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "ALAM - Aliansi Setia dan Pengikut Mahdi",
+    "description": "Konsorsium organisasi multisektoral yang dicirikan oleh sistem administrasi sosial-ekonomi terpusat dengan dimensi internasional."
+  },
+  "navigation": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "structures": "Struktur",
+    "news": "Berita",
+    "events": "Acara",
+    "resources": "Sumber Daya",
+    "contact": "Kontak",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "ALAM",
+    "subtitle": "Aliansi Setia dan Pengikut Mahdi",
+    "description": "Konsorsium organisasi multisektoral yang dicirikan oleh sistem administrasi sosial-ekonomi terpusat dengan dimensi internasional, didirikan menurut hukum LVS (Kerja, Kebajikan, Spiritualitas).",
+    "mission": "Mengembangkan dan memastikan kerangka administrasi yang kondusif untuk ekspansi dan keberlanjutan perjuangan Imam Mahdi.",
+    "cta": "Jelajahi struktur kami",
+    "latestNews": "Berita terbaru",
+    "upcomingEvents": "Acara mendatang"
+  },
+  "about": {
+    "title": "Tentang ALAM",
+    "history": "Sejarah",
+    "mission": "Misi",
+    "vision": "Visi",
+    "values": "Nilai-nilai",
+    "organization": "Bagan organisasi"
+  },
+  "structures": {
+    "title": "Struktur Kami",
+    "alamCom": "ALAM-COM - Komunikasi",
+    "alamAssistance": "ALAM ASSISTANCE",
+    "alamBoutique": "ALAM BOUTIQUE (Toko)",
+    "alamLangue": "ALAM Bahasa",
+    "aite": "AITE - Teknologi Informasi & Teknologi Emerging",
+    "alamProjet": "ALAM PROYEK",
+    "alamFinance": "ALAM KEUANGAN",
+    "alambusiness": "ALAM BUSINESS - Inovasi & Penelitian",
+    "alamtv": "ALAM TV - Koordinasi Internasional"
+  },
+  "news": {
+    "title": "Berita",
+    "readMore": "Baca selengkapnya",
+    "publishedOn": "Diterbitkan pada",
+    "category": "Kategori",
+    "search": "Cari...",
+    "filterBy": "Filter berdasarkan"
+  },
+  "events": {
+    "title": "Acara",
+    "upcoming": "Mendatang",
+    "past": "Lalu",
+    "calendar": "Kalender",
+    "register": "Daftar",
+    "details": "Detail"
+  },
+  "resources": {
+    "title": "Sumber Daya",
+    "download": "Unduh",
+    "publications": "Publikasi",
+    "reports": "Laporan",
+    "documents": "Dokumen"
+  },
+  "contact": {
+    "title": "Kontak",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim",
+    "address": "Alamat",
+    "phone": "Telepon",
+    "socialMedia": "Media sosial"
+  },
+  "footer": {
+    "rights": "Semua hak dilindungi",
+    "followUs": "Ikuti kami",
+    "newsletter": "Newsletter",
+    "subscribe": "Berlangganan"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "success": "Berhasil",
+    "close": "Tutup",
+    "menu": "Menu",
+    "search": "Cari"
+  }
+}
+
